@@ -1,0 +1,24 @@
+﻿@using FitnessTracker.Data.Entities;
+@model List<Workout>
+
+<h2>All Workouts</h2>
+
+<table>
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Description</th>
+            <th>Date</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var workout in Model)
+        {
+            <tr>
+                <td>@workout.WorkoutName</td>
+                <td>@workout.Description</td>
+                <td>@workout.Date.ToShortDateString()</td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,14 @@
+﻿@using Demo.ViewModels.Product
+
+@{
+    ViewData["Title"] = "All Products";
+}
+
+<div class="card" style="width:18rem">
+    <div class="card-header">@ViewData["Title"]</div>
+    <div class="card-body">
+        <h5 class="card-title">Product name: @Model.Name</h5>
+        <p class="card-text">Price: $@Model.Price</p>
+    </div>
+
+</div>

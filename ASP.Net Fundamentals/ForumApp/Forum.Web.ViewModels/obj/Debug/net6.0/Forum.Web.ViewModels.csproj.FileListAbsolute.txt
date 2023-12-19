@@ -1,0 +1,12 @@
+D:\Coding\ASPNet Fundamentals\ForumApp\Forum.Web.ViewModels\bin\Debug\net6.0\Forum.Web.ViewModels.deps.json
+D:\Coding\ASPNet Fundamentals\ForumApp\Forum.Web.ViewModels\bin\Debug\net6.0\Forum.Web.ViewModels.dll
+D:\Coding\ASPNet Fundamentals\ForumApp\Forum.Web.ViewModels\bin\Debug\net6.0\Forum.Web.ViewModels.pdb
+D:\Coding\ASPNet Fundamentals\ForumApp\Forum.Web.ViewModels\obj\Debug\net6.0\Forum.Web.ViewModels.csproj.AssemblyReference.cache
+D:\Coding\ASPNet Fundamentals\ForumApp\Forum.Web.ViewModels\obj\Debug\net6.0\Forum.Web.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\ASPNet Fundamentals\ForumApp\Forum.Web.ViewModels\obj\Debug\net6.0\Forum.Web.ViewModels.AssemblyInfoInputs.cache
+D:\Coding\ASPNet Fundamentals\ForumApp\Forum.Web.ViewModels\obj\Debug\net6.0\Forum.Web.ViewModels.AssemblyInfo.cs
+D:\Coding\ASPNet Fundamentals\ForumApp\Forum.Web.ViewModels\obj\Debug\net6.0\Forum.Web.ViewModels.csproj.CoreCompileInputs.cache
+D:\Coding\ASPNet Fundamentals\ForumApp\Forum.Web.ViewModels\obj\Debug\net6.0\Forum.Web.ViewModels.dll
+D:\Coding\ASPNet Fundamentals\ForumApp\Forum.Web.ViewModels\obj\Debug\net6.0\refint\Forum.Web.ViewModels.dll
+D:\Coding\ASPNet Fundamentals\ForumApp\Forum.Web.ViewModels\obj\Debug\net6.0\Forum.Web.ViewModels.pdb
+D:\Coding\ASPNet Fundamentals\ForumApp\Forum.Web.ViewModels\obj\Debug\net6.0\ref\Forum.Web.ViewModels.dll
