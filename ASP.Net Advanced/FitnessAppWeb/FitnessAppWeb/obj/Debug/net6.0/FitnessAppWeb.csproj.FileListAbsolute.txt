@@ -1,9 +1,0 @@
-D:\Coding\ASP.Net Advanced\FitnessAppWeb\FitnessAppWeb\obj\Debug\net6.0\FitnessAppWeb.csproj.AssemblyReference.cache
-D:\Coding\ASP.Net Advanced\FitnessAppWeb\FitnessAppWeb\obj\Debug\net6.0\FitnessAppWeb.GeneratedMSBuildEditorConfig.editorconfig
-D:\Coding\ASP.Net Advanced\FitnessAppWeb\FitnessAppWeb\obj\Debug\net6.0\FitnessAppWeb.AssemblyInfoInputs.cache
-D:\Coding\ASP.Net Advanced\FitnessAppWeb\FitnessAppWeb\obj\Debug\net6.0\FitnessAppWeb.AssemblyInfo.cs
-D:\Coding\ASP.Net Advanced\FitnessAppWeb\FitnessAppWeb\obj\Debug\net6.0\FitnessAppWeb.csproj.CoreCompileInputs.cache
-D:\Coding\ASP.Net Advanced\FitnessAppWeb\FitnessAppWeb\obj\Debug\net6.0\FitnessAppWeb.MvcApplicationPartsAssemblyInfo.cs
-D:\Coding\ASP.Net Advanced\FitnessAppWeb\FitnessAppWeb\obj\Debug\net6.0\FitnessAppWeb.MvcApplicationPartsAssemblyInfo.cache
-D:\Coding\ASP.Net Advanced\FitnessAppWeb\FitnessAppWeb\obj\Debug\net6.0\FitnessAppWeb.RazorAssemblyInfo.cache
-D:\Coding\ASP.Net Advanced\FitnessAppWeb\FitnessAppWeb\obj\Debug\net6.0\FitnessAppWeb.RazorAssemblyInfo.cs

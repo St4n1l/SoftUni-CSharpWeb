@@ -1,5 +1,0 @@
-D:\Coding\ASP.Net Advanced\FitnessAppWeb\FitnessAppWeb.Data.Models\obj\Debug\net6.0\FitnessAppWeb.Data.Models.csproj.AssemblyReference.cache
-D:\Coding\ASP.Net Advanced\FitnessAppWeb\FitnessAppWeb.Data.Models\obj\Debug\net6.0\FitnessAppWeb.Data.Models.GeneratedMSBuildEditorConfig.editorconfig
-D:\Coding\ASP.Net Advanced\FitnessAppWeb\FitnessAppWeb.Data.Models\obj\Debug\net6.0\FitnessAppWeb.Data.Models.AssemblyInfoInputs.cache
-D:\Coding\ASP.Net Advanced\FitnessAppWeb\FitnessAppWeb.Data.Models\obj\Debug\net6.0\FitnessAppWeb.Data.Models.AssemblyInfo.cs
-D:\Coding\ASP.Net Advanced\FitnessAppWeb\FitnessAppWeb.Data.Models\obj\Debug\net6.0\FitnessAppWeb.Data.Models.csproj.CoreCompileInputs.cache
